@@ -1,4 +1,4 @@
-## My profile
+## About Me
 
 • My name is Pedro Oliveira. <br>
 • I'm 27 years old. <br>
