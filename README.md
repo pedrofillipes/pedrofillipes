@@ -8,4 +8,4 @@
 • I speak Portuguese and English. <br>
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Feernin&count_private=true&show_icons=true&theme=radical" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pedrofillipes&count_private=true&show_icons=true&theme=radical" /> </p>
