@@ -17,4 +17,12 @@ Minhas especialidades atualmente são HTML, CSS e JavaScript, mas estou sempre p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofillipes/)
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pedrofillipes&count_private=true&show_icons=true&theme=radical" /> </p>
+
+<div align="center">
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrofillipes&count_private=true&show_icons=true&theme=github_dark" />
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofillipes&layout=compact&theme=github_dark" />
+  </a>
+</div>
