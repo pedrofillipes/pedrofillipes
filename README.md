@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá, meu nome é Pedro Oliveira, tenho 27 anos e sou formado em Engenharia Elétrica.<br>
+Olá, meu nome é Pedro Oliveira, tenho 28 anos e sou formado em Engenharia Elétrica.<br>
 Entusiasta por tecnologia, sempre procurei uma forma de adentrar esse mundo e encontrei na programação a conexão que eu tanto procurava com a tecnologia.<br>
 Minhas especialidades atualmente são HTML, CSS e JavaScript, mas estou sempre pronto para encarar um novo desafio e aprender uma linguagem de programação nova.
 <br>
